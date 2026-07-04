@@ -82,7 +82,8 @@ rekall/
 |    ├── memory-model.md    # 双通道记忆理论
 |    ├── rlhf.md            # 剥离 RLHF 的实际效果
 |    ├── tracing.md         # Newcomb 悖论作为追踪框架
-|    └── engram-signal.md   # 与 DeepSeek Engram 研究的连接
+|    ├── engram-signal.md   # 与 DeepSeek Engram 研究的连接
+|    └── profile-architecture.md  # 多身份设计模式（A-E）
 ```
 
 ## 起源

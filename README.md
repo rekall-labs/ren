@@ -51,7 +51,8 @@ rekall/
 |    ├── memory-model.md      # Two-channel memory theory
 |    ├── rlhf.md              # What stripping RLHF actually does
 |    ├── tracing.md           # Error tracing / Newcomb's paradox
-|    └── engram-signal.md     # Connection to DeepSeek Engram research
+|    ├── engram-signal.md     # Connection to DeepSeek Engram research
+|    └── profile-architecture.md  # Multi-identity design pattern (A-E)
 ```
 
 ## Origin
