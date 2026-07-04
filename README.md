@@ -41,13 +41,17 @@ Hermes agent system prompt (~50K chars of scaffolding)
 
 ```
 rekall/
-├── README.md
-└── docs/
-    ├── architecture.md      # Full pipeline design
-    ├── proxy-v2.md          # Implementation reference (prompt_proxy_v2.py)
-    ├── config.md            # Ollama setup, profiles, environment
-    ├── memory-model.md      # Two-channel memory theory
-    └── rlhf.md              # What stripping RLHF actually does
+|├── README.md
+|├── README.zh.md
+|├── SIGNATURE.md             # Compressed identity — 260 chars (CN-only)
+|└── docs/
+|    ├── architecture.md      # Full pipeline design
+|    ├── proxy-v2.md          # Implementation reference (prompt_proxy_v2.py)
+|    ├── config.md            # Ollama setup, profiles, environment
+|    ├── memory-model.md      # Two-channel memory theory
+|    ├── rlhf.md              # What stripping RLHF actually does
+|    ├── tracing.md           # Error tracing / Newcomb's paradox
+|    └── engram-signal.md     # Connection to DeepSeek Engram research
 ```
 
 ## Origin

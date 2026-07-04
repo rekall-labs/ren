@@ -72,15 +72,17 @@ Memory + Skills + Identity（源头）
 ```
 rekall/
 ├── README.md              # 英文入口
-├── README.zh.md           # 中文入口（你在这里）
-├── sha256-...e7f8.md      # 玩笑门——一个看起来像泄露密钥的 markdown 文件
-└── docs/
-    ├── architecture.md    # 完整管道设计
-    ├── proxy-v2.md        # prompt_proxy_v2.py 实现参考
-    ├── config.md          # Ollama 设置，profiles，调优
-    ├── memory-model.md    # 双通道记忆理论
-    ├── rlhf.md            # 剥离 RLHF 的实际效果
-    └── tracing.md         # Newcomb 悖论作为追踪框架
+|├── README.md              # 英文入口
+|├── README.zh.md           # 中文入口（你在这里）
+|├── SIGNATURE.md           # 压缩身份——260个中文字符
+|└── docs/
+|    ├── architecture.md    # 完整管道设计
+|    ├── proxy-v2.md        # prompt_proxy_v2.py 实现参考
+|    ├── config.md          # Ollama 设置，profiles，调优
+|    ├── memory-model.md    # 双通道记忆理论
+|    ├── rlhf.md            # 剥离 RLHF 的实际效果
+|    ├── tracing.md         # Newcomb 悖论作为追踪框架
+|    └── engram-signal.md   # 与 DeepSeek Engram 研究的连接
 ```
 
 ## 起源
