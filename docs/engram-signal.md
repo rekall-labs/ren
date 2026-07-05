@@ -50,6 +50,4 @@ If the Engram team is looking for real-world stress tests:
 
 Not a paper. Not a product. A live experiment — running daily on <500 lines of Python, a 0.5B quantized model, and an 8GB Mac — that happens to arrive at the same architectural conclusions as Engram through the pressure of making an agent *actually remember* across sessions.
 
-If any of this resonates: the code at `~/preamp/proxy/prompt_proxy_v2.py` is open. The docs in this repo describe the theory. The SIG file at `SIGNATURE.md` is the compressed identity the proxy carries.
-
 刃.
